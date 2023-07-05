@@ -28,3 +28,5 @@ Description of Bash Script to be found here:
 
 14- 13-symbolic_link : adds symbolic linc of /bin/ls
 
+15- 14-copy_html : copies all html files in current directory to the parent directory
+
