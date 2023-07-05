@@ -21,3 +21,6 @@ Description of Bash Script to be found here:
 10- 9-firstdirdeletion : remove first directory
 
 11- 10-back : return to previous directory
+
+12- 11-lists : list files in current directory and in parent directory and in /boot
+
