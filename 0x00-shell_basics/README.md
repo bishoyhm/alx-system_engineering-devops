@@ -34,3 +34,5 @@ Description of Bash Script to be found here:
 
 17- 101-clean_emacs : removes temp files of emac
 
+18- 102-tree : creates tree directory welcome/to/school
+
