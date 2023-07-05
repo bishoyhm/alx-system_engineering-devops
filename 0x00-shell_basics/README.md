@@ -17,3 +17,5 @@ Description of Bash Script to be found here:
 8- 7-movethatfile : move file betty from tmp to tmp/my_first_directory
 
 9- 8-firstdelete : remove betty from tmp/my_first_directory
+
+10- 9-firstdirdeletion : remove first directory
