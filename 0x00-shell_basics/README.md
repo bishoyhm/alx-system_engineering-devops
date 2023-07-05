@@ -24,3 +24,5 @@ Description of Bash Script to be found here:
 
 12- 11-lists : list files in current directory and in parent directory and in /boot
 
+13- 12-file_type : print file type
+
