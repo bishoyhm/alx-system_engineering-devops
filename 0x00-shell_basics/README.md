@@ -7,3 +7,5 @@ Description of Bash Script to be found here:
 3- 2-bring_me_home : Change directory to home
 
 4- 3-listfiles : list files in long format
+
+5- 4-listmorefiles : list all files including hidden in long format 
