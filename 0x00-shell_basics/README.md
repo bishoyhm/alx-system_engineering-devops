@@ -32,3 +32,5 @@ Description of Bash Script to be found here:
 
 16- 100-lets_move : moves files starting with upper case to /tmp/u
 
+17- 101-clean_emacs : removes temp files of emac
+
