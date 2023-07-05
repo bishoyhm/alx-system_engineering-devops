@@ -26,3 +26,5 @@ Description of Bash Script to be found here:
 
 13- 12-file_type : print file type
 
+14- 13-symbolic_link : adds symbolic linc of /bin/ls
+
