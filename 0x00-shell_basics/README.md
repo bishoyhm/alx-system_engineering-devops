@@ -5,3 +5,5 @@ Description of Bash Script to be found here:
 2- 1-listit : Prints list of your current working directory
 
 3- 2-bring_me_home : Change directory to home
+
+4- 3-listfiles : list files in long format
