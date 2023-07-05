@@ -13,3 +13,5 @@ Description of Bash Script to be found here:
 6- 5-listfilesdigitonly : list all files including hidden and user and group id in long format
 
 7- 6-firstdirectory : creates directory in tmo named my_first_directory
+
+8- 7-movethatfile : move file betty from tmp to tmp/my_first_directory
