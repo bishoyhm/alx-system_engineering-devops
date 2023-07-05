@@ -30,3 +30,5 @@ Description of Bash Script to be found here:
 
 15- 14-copy_html : copies all html files in current directory to the parent directory
 
+16- 100-lets_move : moves files starting with upper case to /tmp/u
+
