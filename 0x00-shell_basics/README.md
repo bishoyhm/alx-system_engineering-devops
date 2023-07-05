@@ -8,4 +8,6 @@ Description of Bash Script to be found here:
 
 4- 3-listfiles : list files in long format
 
-5- 4-listmorefiles : list all files including hidden in long format 
+5- 4-listmorefiles : list all files including hidden in long format
+
+6- 5-listfilesdigitonly : list all files including hidden and user and group id in long format
