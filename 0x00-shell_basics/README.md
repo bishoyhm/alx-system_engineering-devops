@@ -19,3 +19,5 @@ Description of Bash Script to be found here:
 9- 8-firstdelete : remove betty from tmp/my_first_directory
 
 10- 9-firstdirdeletion : remove first directory
+
+11- 10-back : return to previous directory
