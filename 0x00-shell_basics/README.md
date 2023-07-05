@@ -36,3 +36,4 @@ Description of Bash Script to be found here:
 
 18- 102-tree : creates tree directory welcome/to/school
 
+19- 103-commas : Print all files in short format with commas
